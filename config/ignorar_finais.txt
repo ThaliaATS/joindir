@@ -1,0 +1,14 @@
+.min.js
+.min.css
+.map
+.lock
+.log
+.pyc
+.class
+.o
+.exe
+.dll
+.so
+.bak
+.tmp
+-lock.json
